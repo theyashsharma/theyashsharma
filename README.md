@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Yash Sharma
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently focusing on doing some projects
-- 💞️ I’m looking for a internship in Data Science and Analytics domain
-- 📫 You can reach me through email : yash.amrahs@gmail.com 
-
+A passionate learner and an aspiring Data Scientist. Pursuing BTech - Bachelor of Technology from REVA University, Bengaluru. Looking forward to grab some opportunities in Data Science domain. Having 2+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems with 7+ months of work experience in the domain. Also a competition contributer at kaggle and passionate about deep learning.
